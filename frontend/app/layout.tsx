@@ -20,8 +20,8 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Precision Sentinel - Demo",
-  description: "Livestock biomarker monitoring system that detects diseases before they are visible.",
+  title: "DAMP",
+  description: "Distributed Animal Monitoring Platform",
 };
 
 export default function RootLayout({
