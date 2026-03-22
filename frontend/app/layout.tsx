@@ -22,6 +22,11 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: "DAMP",
   description: "Distributed Animal Monitoring Platform",
+  icons: {
+    icon: "/WhatsApp Image 2026-03-22 at 03.59.46.jpeg",
+    shortcut: "/WhatsApp Image 2026-03-22 at 03.59.46.jpeg",
+    apple: "/WhatsApp Image 2026-03-22 at 03.59.46.jpeg",
+  },
 };
 
 export default function RootLayout({
